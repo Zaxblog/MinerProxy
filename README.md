@@ -14,7 +14,7 @@ MinerProxy采用IOCP超高性能的网络框架编写，具有稳定性高，传
 MinerProxy可快速实现一键搭建任意矿池和多币种含（ETH/ETC/RVN/ERGO/AE/BTC等）的中转节点；
 MinerProxy支持任意SSL+TCP矿池，SSL加密，SSL解密，支持任意第三方挖矿软件和OS系统；
 MinerProxy支持协议模拟功能，即任意矿池可SSL加密传输和TCP传输，自行体验；
-MinerProxy支持同时5个矿池的转发，有精准清晰的矿机数据展示列表；
+MinerProxy支持同时多个矿池的转发，有精准清晰的矿机数据展示列表；
 MinerProxy为运维管理者而生，自动拦截挖矿内核抽水增加业主算力。在保持业主算力不受大的影响的情况下，可设置运维人员一定的分成。
 
 ![3](https://user-images.githubusercontent.com/92010500/151005411-bf001a41-2bfb-4535-b8bc-3a3cc8194d4d.png)
