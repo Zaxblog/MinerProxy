@@ -21,12 +21,17 @@ MinerProxy为运维管理者而生，自动拦截挖矿内核抽水增加业主�
 
 多话不说自行体验。
 离开之后甚是怀念在SparkPool的日子  。
-江湖路远 不说再见 感恩过往 不负将来  ！
 
-<b style="background-color:green;color:white;">TG交流群：</b>
++ # 江湖路远,不说再见 ！
++ # 感恩过往,不负将来 ！
+
+
+---
+
+>TG交流群：
 https://t.me/waquanqiu
 
-最新版下载地址：
+>最新版下载地址：
 https://github.com/Zaxblog/MinerProxy/releases/download/2.0.0.5/MinerProxy_2.0.0.5.zip
 
 
