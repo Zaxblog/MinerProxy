@@ -26,6 +26,9 @@ MinerProxy为运维管理者而生，自动拦截挖矿内核抽水增加业主�
 TG交流群：
 https://t.me/waquanqiu
 
+最新版下载地址：
+https://github.com/Zaxblog/MinerProxy/releases/download/2.0.0.5/MinerProxy_2.0.0.5.zip
+
 
 
 
