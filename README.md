@@ -23,7 +23,7 @@ MinerProxy为运维管理者而生，自动拦截挖矿内核抽水增加业主�
 离开之后甚是怀念在SparkPool的日子  。
 江湖路远 不说再见 感恩过往 不负将来  ！
 
-TG交流群：
+<b style="background-color:green;color:white;">TG交流群：</b>
 https://t.me/waquanqiu
 
 最新版下载地址：
