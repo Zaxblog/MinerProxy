@@ -2,7 +2,7 @@
 https://t.me/waquanqiu
 
 >最新版下载地址：
-https://github.com/Zaxblog/MinerProxy/releases/download/3.2/MinerProxy_V3.2.zip
+https://github.com/Zaxblog/MinerProxy/releases/download/3.3/MinerProxy_V3.3.zip
 
 
 ![1](https://user-images.githubusercontent.com/92010500/151005400-d743db5b-c3d6-4344-8158-77e1905075e9.png)
